@@ -1,4 +1,4 @@
-# Life_number
+# C#作品
 # 下載、開啟步驟:
 # 1.點入.rar的連結 ，按download
 # 2.因環境需求，需先下載.Net framework，下載網址:https://dotnet.microsoft.com/download/dotnet-framework/net48
